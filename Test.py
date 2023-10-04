@@ -156,7 +156,7 @@ def menu_apikey():
 
     ┌───────────────────────────────────────┐
     │ [✓] AUTHOR   : MRX JIBON            
-    │ [✓] LIKE   : PYTHON                  
+    │ [✓] LIKE    : PYTHON                  
     │ [✓] WHATSAPP : +8801846738727         
     │ [✓] VERSION  : 1.0                  
     │ [✓] TOOLS    : \033[1;32m RANDOM GAME ID CLONER  \033[1;37m
@@ -209,13 +209,13 @@ logo=(f"""\x1b[1;97m
 ██  ██  ██ ██   ██     ██   ██ ██ ██   ██ ██    ██ ██  ██  ██ 
 ██      ██ ██   ██      █████  ██ ██████   ██████  ██      ██                                                                                                                     
 
-    ┌───────────────────────────────────────┐
-    │ [✓] AUTHOR   :  MRX JIBON           
-    │ [✓] LIKE    :  PYTHON                
-    │ [✓] WHATSAPP : +8801865544636         
-    │ [✓] VERSION  : 1.0                   
-    │ [✓] TOOLS    : \033[1;32m GAME ID CLONER  \033[1;37m
-    └───────────────────────────────────────┘""")
+   ┌───────────────────────────────────────┐
+   │ [✓] AUTHOR   :  MRX JIBON           
+   │ [✓] LIKE     :  PYTHON                
+   │ [✓] WHATSAPP : +8801865544636         
+   │ [✓] VERSION  : 1.0                   
+   │ [✓] TOOLS    : \033[1;32m GAME ID CLONER  \033[1;37m
+   └───────────────────────────────────────┘""")
 def cek_apk(session,coki):
 	w=session.get("https://mbasic.facebook.com/settings/apps/tabbed/?tab=active",cookies={"cookie":coki}).text
 	sop = BeautifulSoup(w,"html.parser")
@@ -241,11 +241,11 @@ def cek_apk(session,coki):
 def Main():
 	os.system('clear')
 	print(logo)
-	print('[1] BD Number Cloner [CP-OK MIX] ')
-	print("[2] BD Number cloner [Only Ok]")
-	print("[3] BD Number cloner [APK] ")
-	print("[4] Contract Admin [Report a problem]")
-	print('[0] Back')
+	print('   [1] BD Number Cloner [CP-OK MIX] ')
+	print("   [2] BD Number cloner [Only Ok]")
+	print("   [3] BD Number cloner [APK] ")
+	print("   [4] Contract Admin [Report a problem]")
+	print('   [0] Back')
 	print(54*'_')
 	opt = input('Choose option >>> ')
 	if opt =='1':
